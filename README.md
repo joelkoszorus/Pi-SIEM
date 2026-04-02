@@ -1,4 +1,4 @@
-# Pi SIEM
+# Pi SIEM - ELK Stack Build Out for Raspberry Pi
 
 ## Objective
 
